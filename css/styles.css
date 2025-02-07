@@ -1,0 +1,27 @@
+*{
+    color: darkslategray;
+}
+
+.image-1{
+    width: 150px;
+    height: 150px;
+}
+.image-2{
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+}
+.content-1{
+    width: 50%;
+    
+}
+.content-2{
+    width: 50%;
+    
+}
+.content-container{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    
+}
